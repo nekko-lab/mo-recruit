@@ -5,6 +5,14 @@ Miku'sOriginはネットワークコンテンツ研究会のライブ制作プ�
 
 新入部員募集中です。
 
+## 応募する
+
+部員、積極募集中です！！  
+すぐに入部する気がなくても、お気軽にお問い合わせください！  
+Discord上にて簡単な面談を行います。
+
+[フォーム](https://docs.google.com/forms/d/1AUzKpFnQ0qA5jAU-gatJOmd7els-QGa0OEVNbkboP5E/viewform?edit_requested=true)に必要情報を送信してください。
+
 ## サークル・プロジェクト情報
 
 ### Miku'sOriginとは？
