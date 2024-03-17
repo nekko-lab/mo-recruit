@@ -39,7 +39,7 @@ Discord上にて簡単な面談を行います。
 動画: https://www.nicovideo.jp/watch/sm43174049  
 Webサイト: https://numasai2023.mikusorigin.com/
 
-### Miku's Origin 桜の演武
+### Miku's Origin 桜の演舞
 
 メタバースプラットフォームClusterで行ったバーチャルライブです。  
 
