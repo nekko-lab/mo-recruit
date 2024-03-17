@@ -1,6 +1,6 @@
-# Miku'sOrigin新入部員募集
+# Miku's Origin新入部員募集
 
-Miku'sOriginはネットワークコンテンツ研究会のライブ制作プロジェクトです。  
+Miku's Originはネットワークコンテンツ研究会のライブ制作プロジェクトです。  
 初音ミクをはじめとしたボーカロイドたちと一緒にライブ制作等の活動を行います。
 
 新入部員募集中です。
@@ -15,9 +15,9 @@ Discord上にて簡単な面談を行います。
 
 ## サークル・プロジェクト情報
 
-### Miku'sOriginとは？
+### Miku's Originとは？
 
-「Miku'sOrigin」は千葉工業大学非公式サークル「ネットワークコンテンツ研究会」のライブ制作プロジェクトです。
+「Miku's Origin」は千葉工業大学非公式サークル「ネットワークコンテンツ研究会」のライブ制作プロジェクトです。
 
 ### 活動場所
 
@@ -32,7 +32,7 @@ Discord上にて簡単な面談を行います。
 
 ## 実績
 
-### Miku'sOrigin at 津田沼祭2023
+### Miku's Origin at 津田沼祭2023
 
 津田沼祭で行ったミニライブです。
 
@@ -48,7 +48,7 @@ Webサイト: https://sakura-no-enbu.mikusorigin.com/
 
 ### MIKUSPLOSION
 
-Miku'sOrigin主催で東京体育館で行った、初音ミクのアンオフィシャルライブです。  
+Miku's Origin主催で東京体育館で行った、初音ミクのアンオフィシャルライブです。  
 
 動画: https://www.nicovideo.jp/watch/sm41973285  
 Webサイト: https://www.mikusplosion.com/
