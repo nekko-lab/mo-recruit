@@ -5,6 +5,7 @@ Miku's Originはネットワークコンテンツ研究会のライブ制作プ�
 
 新入部員募集中です。
 
+クリックするとYoutubeに移動します。
 [![新入生広報_ミクオリ_2024_サムネイル](https://github.com/cit-nclab/mo-recruit/assets/46730701/023649ce-47d2-467f-9921-0a5c8a3f8ad4)](https://youtu.be/utLYROUUdRE)
 
 ## 応募する
